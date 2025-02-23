@@ -17,17 +17,17 @@ The purpose for creating this app is to learn how to create Android Mobile Apps 
 
 # Useful Websites
 
-[Android Studio – including Download options](https://developer.android.com/studio)
-[Android Studio Introduction](https://developer.android.com/studio/intro)
-[Jetpack Compose](https://developer.android.com/compose)
-[Tutorial Hello World](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
-[How to Create a Lazy Column](https://youtu.be/XfYlRn_Jy1g?si=LAMk-1ZEJmXXVES0)
-[Kotlin Collections Overview](https://kotlinlang.org/docs/collections-overview.html)
-[Jetpack Compose Playground - BackHandler](https://foso.github.io/Jetpack-Compose-Playground/activity/backhandler/)
-[Android Jetpack DataStore library info](https://developer.android.com/jetpack/androidx/releases/datastore)
-[Scaffold overview](https://developer.android.com/develop/ui/compose/components/scaffold)
-[Jetpack Compose Tutorial]( https://developer.android.com/develop/ui/compose/tutorial)
-[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course?hl=en)
+- [Android Studio – including Download options](https://developer.android.com/studio)
+- [Android Studio Introduction](https://developer.android.com/studio/intro)
+- [Jetpack Compose](https://developer.android.com/compose)
+- [Tutorial Hello World](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
+- [How to Create a Lazy Column](https://youtu.be/XfYlRn_Jy1g?si=LAMk-1ZEJmXXVES0)
+- [Kotlin Collections Overview](https://kotlinlang.org/docs/collections-overview.html)
+- [Jetpack Compose Playground - BackHandler](https://foso.github.io/Jetpack-Compose-Playground/activity/backhandler/)
+- [Android Jetpack DataStore library info](https://developer.android.com/jetpack/androidx/releases/datastore)
+- [Scaffold overview](https://developer.android.com/develop/ui/compose/components/scaffold)
+- [Jetpack Compose Tutorial]( https://developer.android.com/develop/ui/compose/tutorial)
+- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course?hl=en)
 
 
 # Future Work
