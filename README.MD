@@ -6,7 +6,7 @@ The main screen shows the Bin List which is a scrollable list.  An "+" button al
 
 The purpose for creating this app is to learn how to create Android Mobile Apps using Android Studio and Kotlin.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jiSfwT9jJHA)
 
 # Development Environment
 
